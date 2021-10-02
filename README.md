@@ -20,4 +20,4 @@ All backgrounds and skills levels are encouraged to complete this virtual challe
 
 ## Git Cheat Sheet
 
-Download Git Cheet Sheet using 👉 [this]() 👈 link.
+Download Git Cheet Sheet using 👉 [this](https://github.com/Coding-Club-JKLU/hacktoberfest2021/raw/main/resources/git-cheat-sheet.pdf) 👈 link.
