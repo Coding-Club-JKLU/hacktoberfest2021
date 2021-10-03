@@ -18,7 +18,7 @@ Please follow this guidelines when contributing to the project.
      "degree": "btech",
      "branch": "cse",
      "yearOfPassing": "2023",
-     "github": "@username",
+     "github": "username",
      "linkedin": "https://www.linkedin.com/in/username",
      "blog": "https://www.blog.com/",
      "portfolio": "https://www.portfolio.me/",
