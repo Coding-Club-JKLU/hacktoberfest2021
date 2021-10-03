@@ -13,20 +13,26 @@ Please follow this guidelines when contributing to the project.
 7. After writing your data, following the rules, commit your changes. (commands: `git add .` followed by `git commit -m "<commit-messgage>"`)
 8. Now, push the changes to remote. (command: `git push --set-upstream origin <branch-name>`)
 
-```json
-{
-  "name": "John Doe",
-  "rollNo": "2019btechcse099",
-  "degree": "btech",
-  "branch": "cse",
-  "yearOfPassing": "2023",
-  "github": "@username",
-  "linkedin": "https://www.linkedin.com/in/username",
-  "blog": "https://www.blog.com/",
-  "portfolio": "https://www.portfolio.me/",
-  "languages": ["python", "java", "html", "css", "javascript"]
-}
-```
+   ```json
+   {
+     "name": "John Doe",
+     "rollNo": "2019btechcse099",
+     "degree": "btech",
+     "branch": "cse",
+     "yearOfPassing": "2023",
+     "github": "username",
+     "linkedin": "https://www.linkedin.com/in/username",
+     "blog": "https://www.blog.com/",
+     "portfolio": "https://www.portfolio.me/",
+     "languages": [
+       "python",
+       "java",
+       "html",
+       "css",
+       "javascript"
+     ]
+   }
+   ```
 
 ## Rules
 
