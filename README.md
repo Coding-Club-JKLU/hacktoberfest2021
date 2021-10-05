@@ -1,5 +1,7 @@
 # Hacktoberfest 2021
 
+## NOTE: THIS REPOSITORY HAS BEEN EXCLUDED FROM PARTICIPATING IN HACKTOBERFEST, HENCE ANYMORE PRs MADE ON THIS REPO WILL NOT BE ENTERTAINED ANYMORE BY HACKTOBERFEST's WEBSITE.
+
 ## About this event
 
 Open source is changing the world – one contribution at a time.
